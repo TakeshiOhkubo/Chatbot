@@ -2,7 +2,7 @@
 Chatbot using local PC, without using Google collaboratory.
 
 
-(Google colaboratory を使う方法がネットで紹介されてますが、医療での応用を念頭に、自分のパソコンにインストール実験。本音は無料へのこだわり)
+(Google colaboratory を使う方法がネットで紹介されてますが、医療での応用を念頭に、自分のパソコンにインストール実験)
 https://nlp.ist.i.kyoto-u.ac.jp/?Driving+domain+QA+datasets
 
 https://nlp.ist.i.kyoto-u.ac.jp/nl-resource/Driving%20domain%20QA%20datasets/download_ddqa.cgi
